@@ -43,6 +43,6 @@
 			$conn->close(); 
 		?> 
 	</table>
-	<a href="http://localhost/A/emp_php/index.html"><button>Back</button></a>
+	<a href="/index.html"><button>Back</button></a>
 	</body>
 </html>
